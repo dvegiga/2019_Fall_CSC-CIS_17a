@@ -1,16 +1,15 @@
 # Welcome
-My nam is Devan and this is my GitHub repository for 
-Riverside City College Programming C++ Objects
+My name is Devan and this is my GitHub repository for Riverside City College Programming C++ Objects
 
 ## Built With
 
-* [repl](https://repl.it/) - Primary IDE
+* [NetBeans 8.2](https://netbeans.org/) - Primary IDE
 * [Visual Code](https://code.visualstudio.com/) - Secondary IDE
-* [MinGW](https://sourceforge.net/projects/mingw-w64/) - Compiler used in conjunction with Microsoft Visual Code.
+* [MinGW](https://sourceforge.net/projects/mingw-w64/) - Compiler used in conjunction with NetBeans.
 * [Google](https://google.com) - An absolute great resource for any programmer!
 
 ## Authors
-* **Devan Vegiga** - *Junior Software Developer/Project Coordinator/Homeless* - [dvegiga](https://github.com/dvegiga)
+* **Devan Vegiga** - *Senior Software Developer/Project Coordinator/Homeless* - [dvegiga](https://github.com/dvegiga)
 
 ## License
 
